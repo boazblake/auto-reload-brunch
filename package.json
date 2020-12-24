@@ -3,7 +3,7 @@
   "version": "2.7.1",
   "description": "Adds automatic browser reloading support to brunch.",
   "author": {
-    "name": "Boaz Blake",
+    "name": "Boaz Blake"
   },
   "keywords": [
     "brunchplugin",
